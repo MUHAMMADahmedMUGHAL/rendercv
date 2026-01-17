@@ -29,8 +29,8 @@ A YAML file like this:
 
 ```yaml
 cv:
-  name: John Doe
-  location: San Francisco, CA
+  name: Usama Mughal
+  location: Islamabad
   email: john.doe@email.com
   website: https://rendercv.com/
   social_networks:
@@ -157,3 +157,4 @@ rendercv render "John_Doe_CV.yaml"
 ```
 
 For more details, see the [user guide](https://docs.rendercv.com/user_guide/).
+
